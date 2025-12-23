@@ -5,3 +5,6 @@
 
 システム構成図
 ![image](https://github.com/gykkuo/_DB/blob/main/IMG/system.png)
+
+ER図
+![image](https://github.com/gykkuo/_DB/blob/main/IMG/ER図.drawio.png)
