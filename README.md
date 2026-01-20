@@ -1,22 +1,12 @@
 # DB三人グループ
-チーム情報
 
-項目	内容
-チーム名	DB三人グループ
-授業名	データベース 最終課題
-メンバー
 
 学籍番号	氏名
 2442017　カクヨウカイ  
 2441056　陳思竹  
 2442049　孫小懿  
 
-システム構成図
-![image](https://github.com/gykkuo/_DB/blob/main/IMG/system.png)
 
-
-ER図
-![image](https://github.com/gykkuo/_DB/blob/main/IMG/ER図.drawio.png)
 
 # Lost & Found Map App
 
@@ -58,3 +48,10 @@ streamlit run app.py
 ```
 
 Open your browser at `http://localhost:8501`.
+
+システム構成図
+![image](https://github.com/gykkuo/_DB/blob/main/IMG/system.png)
+
+
+ER図
+![image](https://github.com/gykkuo/_DB/blob/main/IMG/ER図.drawio.png)
